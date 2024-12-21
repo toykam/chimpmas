@@ -18,7 +18,7 @@
     }
   
     function participateInDraw() {
-        alert("Christmas NFT draw participation functionality goes here!");
+        alert("Functionality will be activated once token is live as it will be used to participate in the draw");
         // logic to call the smart contract function to participate in the draw
         
     }
